@@ -1,0 +1,29 @@
+{
+  "name": "@acnhcompanion/acnh-api-docs",
+  "version": "1.0",
+  "description": "Documentation for the AC:NH Companion API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/samantharachelb/acnh-api-docs.git"
+  },
+  "keywords": [
+    "animal crossing",
+    "new horizons",
+    "acnh",
+    "api",
+    "companion"
+  ],
+  "contributors": [
+    {
+      "name": "Samantha belnavis",
+      "email": "me@samantharachelb.ca"
+    }
+  ],
+  "license": "MIT",
+  "bugs": "https://github.com/samantharachelb/acnh-api-docs/issues",
+  "homepage": "https://github.com/samantharachelb/acnh-api-docs#readme"
+}
